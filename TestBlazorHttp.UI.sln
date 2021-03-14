@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlazorHttp.UI", "TestBlazorHttp.UI\TestBlazorHttp.UI.csproj", "{0F9DDF78-ECE1-4478-84AF-1ABBB3DBBDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlazorHttp.Api", "TestBlazorHttp.Api\TestBlazorHttp.Api.csproj", "{7AAF2EF7-C058-4CC2-9990-8743E1AFE510}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DFFE88B5-4EFD-442D-8146-420B5BB08B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9DDF78-ECE1-4478-84AF-1ABBB3DBBDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9DDF78-ECE1-4478-84AF-1ABBB3DBBDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9DDF78-ECE1-4478-84AF-1ABBB3DBBDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9DDF78-ECE1-4478-84AF-1ABBB3DBBDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAF2EF7-C058-4CC2-9990-8743E1AFE510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAF2EF7-C058-4CC2-9990-8743E1AFE510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAF2EF7-C058-4CC2-9990-8743E1AFE510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAF2EF7-C058-4CC2-9990-8743E1AFE510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {999FC803-2EDE-4355-A943-07E29AB1ADE4}
+	EndGlobalSection
+EndGlobal
